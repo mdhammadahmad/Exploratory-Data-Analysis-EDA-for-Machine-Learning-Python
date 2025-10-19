@@ -1,4 +1,4 @@
-# 📘 Exploratory Data Analysis & Statistical Testing Notebook
+# 📘 Exploratory Data Analysis For Machine Learning
 
 This repository contains an end-to-end notebook for exploring data distributions, checking for normality, and applying the right statistical tests before using the data in machine learning models.
 
